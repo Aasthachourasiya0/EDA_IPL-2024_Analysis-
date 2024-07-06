@@ -90,3 +90,10 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/IPL-2024-EDA.git
+   
+### Acknowledgement 
+
+Albin Xavier Varghese - LinkedIn
+
+DebugShala - [LinkedIn
+](https://www.linkedin.com/company/debugshala/)
