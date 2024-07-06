@@ -93,7 +93,7 @@ To get a local copy up and running, follow these steps:
    
 ### Acknowledgement 
 
-Albin Xavier Varghese - LinkedIn
+Albin Xavier Varghese - [LinkedIn](https://www.linkedin.com/in/albinxavier1/)
 
 DebugShala - [LinkedIn
 ](https://www.linkedin.com/company/debugshala/)
